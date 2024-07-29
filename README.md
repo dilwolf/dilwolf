@@ -2,19 +2,25 @@
 
 <h1 align="center">Hi 👋, I'm Dilshod Bazarov</h1>
 
-**I'm developing and deploying advanced ML and DL models in Computer Vision, NLP. Authored SCI papers on energy-efficient video surveillance using Federated Learning and Reinforcement Learning. I'm experienced in real-time human behavior analysis and resource-efficient surveillance systems and proficient in Python, PyTorch, TensorFlow, MLflow, and AWS. I'm passionate about creating transformative AI applications which impacts on the society positively**
+<h3 align="center">I'm developing and deploying advanced ML and DL models in Computer Vision, NLP. Authored SCI papers on energy-efficient video surveillance using Federated Learning and Reinforcement Learning. I'm experienced in real-time human behavior analysis and resource-efficient surveillance systems and proficient in Python, PyTorch, TensorFlow, MLflow, and AWS. I'm passionate about creating transformative AI applications which impacts on the society positively</h3>
 
-<img align="right" width="500" alt="Coding" src="https://github.com/dilwolf/dilwolf/blob/main/ml%20coder.gif">
+<img align="right" width="400" alt="Coding" src="https://github.com/dilwolf/dilwolf/blob/main/ml%20coder.gif">
 
 - 🔭 I’m currently working on [Custom Number Plate OCR](soon) project
 
-- 🌱 I’m currently learning **MLOps, LLM and RAG**
+- 🌱 I’m currently learning **MLOps, Generative AI and RAG**
 
-- 👨‍💻 I can do amazing AI-powered projects with **Python,  ML, DL algorithms**
+- 👨‍💻 All of my projects are available at my github repository <a href="https://github.com/dilwolf">Dilwolf</a>
 
-- 📫 How to reach me **dilshodbazarov007@gmail.com**
+- 💬 Ask me about **Machine Learning and AI**
 
-- 🌐 please visit my portfolio wbesite. [https://dilwolf.github.io/Dilshod_portfolio.github.io/](https://dilwolf.github.io/Dilshod_portfolio.github.io/)
+- 👨‍💻 I can do amazing projects with **Python,  ML, DL algorithms**
+
+- 📫 How to reach me: [Email](dilshodbazarov007@gmail.com)
+
+- 🌐 please visit my portfolio website: [Portfolio](https://dilwolf.github.io/Dilshod_portfolio.github.io/)
+
+- 📄 Know about my experiences on LinkedIn <a href="https://www.linkedin.com/in/dilshod-bazarov/">dilshod-bazarov</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
