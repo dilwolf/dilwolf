@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dilshod B</h1>
+[![MasterHead](https://github.com/dilwolf/dilwolf/blob/main/ml_banner.jpg)
+
+<img align="right" width="300" alt="Coding" src="https://github.com/dilwolf/dilwolf/blob/main/ml%20coder.gif">
+
+<h1 align="center">Hi 👋, I'm Dilshod Bazarov</h1>
+
+**I'm developing and deploying advanced ML and DL models in Computer Vision, NLP. Authored SCI papers on energy-efficient video surveillance using Federated Learning and Reinforcement Learning. I'm experienced in real-time human behavior analysis and resource-efficient surveillance systems and proficient in Python, PyTorch, TensorFlow, MLflow, and AWS. I'm passionate about creating transformative AI applications**
 
 - 🔭 I’m currently working on [Custom Number Plate OCR](soon) project
 
