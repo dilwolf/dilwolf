@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: [Email](dilshodbazarov007@gmail.com)
 
-- 🌐 please visit my portfolio website: [Portfolio](https://dilwolf.github.io/Dilshod_portfolio.github.io/)
+- 🌐 Please check out my research and development projects in my [portfolio](https://dilwolf.github.io/Dilshod_portfolio.github.io/)
 
 - 📄 Know about my experiences on LinkedIn <a href="https://www.linkedin.com/in/dilshod-bazarov/">dilshod-bazarov</a>
 
