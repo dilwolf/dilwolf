@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dilshod B</h1>
 
-
-- 🔭 I’m currently working on [Custom Number Plate OCR](soon)
+- 🔭 I’m currently working on [Custom Number Plate OCR](soon) project
 
 - 🌱 I’m currently learning **MLOps, LLM and RAG**
+
+- 👨‍💻 I can do amazing AI-powered projects with **Python,  ML, DL algorithms**
 
 - 📫 How to reach me **dilshodbazarov007@gmail.com**
 
