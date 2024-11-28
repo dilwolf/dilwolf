@@ -6,7 +6,7 @@
 
 <img align="right" width="400" alt="Coding" src="https://github.com/dilwolf/dilwolf/blob/main/ml%20coder.gif">
 
-- 🔭 I’m currently working on [Custom Number Plate OCR](soon) project
+- 🔭 I’m currently working on [Drone Algae Bloom segmentation](soon) project
 
 - 🌱 I’m currently learning **MLOps, Generative AI and RAG**
 
