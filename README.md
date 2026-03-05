@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Machine Learning and AI**
 
-- 👨‍💻 I can do amazing projects with **Python,  ML, DL algorithms**
+- 👨‍💻 I can do amazing projects with **Python,  ML, DL and Computer Vision algorithms**
 
 - 📫 How to reach me: [Email](dilshodbazarov007@gmail.com)
 
