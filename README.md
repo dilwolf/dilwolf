@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dilshod (딜숏)</h1>
+<h1 align="center">Hi 👋, I'm Dilshod </h1>
 
-<h3 align="center">I'm developing and deploying advanced ML and DL models in Computer Vision and NLP. I have authored SCI papers on energy-efficient video surveillance using Federated Learning and Reinforcement Learning. I'm experienced in real-time human behavior analysis and resource-efficient surveillance systems. Furthermore, I'm proficient in Python, PyTorch, TensorFlow, MLflow and AWS. I'm passionate about creating transformative AI applications which impacts on the society positively</h3>
+<h3 align="center">I'm developing and deploying advanced ML and DL models in Computer Vision. I have authored SCI papers on energy-efficient video surveillance using Federated Learning and Reinforcement Learning. I'm experienced in real-time human behavior analysis and resource-efficient surveillance systems. Furthermore, I'm proficient in Python, PyTorch, MLflow and AWS. I'm passionate about creating transformative AI applications which impacts on the society positively</h3>
 
 <img align="right" width="400" alt="Coding" src="https://github.com/dilwolf/dilwolf/blob/main/ml%20coder.gif">
 
