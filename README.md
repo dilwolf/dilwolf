@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MLOps, Generative AI and RAG**
 
-- 👨‍💻 All of my projects are available at my github repository <a href="https://github.com/dilwolf">Dilwolf</a>
+- 👨‍💻 All of my public projects are available at my github repository
 
 - 💬 Ask me about **Machine Learning and AI**
 
